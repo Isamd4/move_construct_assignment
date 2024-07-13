@@ -17,11 +17,10 @@ The `ArrayList` class provides basic functionality for managing an array. It inc
 - A copy constructor
 - A copy assignment operator
   
-##Source
-
-### MyClass
+## Source
 https://github.com/egaebel/Array-List--Cplusplus.git
 
+### MyClass
 
 The `MyClass` class inherits from `ArrayList` and adds the following:
 - A move constructor
