@@ -46,6 +46,8 @@ The move constructor is approximately 57,435% faster than the copy constructor, 
 
 ## Usage
 
+### NOTE: After pulling the ArrayList class, you need to change the class modifier from private to protected
+
 ### Example
 
 The following example shows how to use the `MyClass` class:
